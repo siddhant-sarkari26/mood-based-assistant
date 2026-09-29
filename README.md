@@ -40,7 +40,7 @@ The project contains three main features: mood-based responses, entertainment/mo
 Paste your GitHub repository link in the command below:
 
 ```bash
-git clone (https://github.com/siddhant-sarkari26/mood-based-assistant.git)
+git clone https://github.com/siddhant-sarkari26/mood-based-assistant.git
 ```
 
 **Repository Link:**
